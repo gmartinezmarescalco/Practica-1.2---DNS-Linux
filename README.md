@@ -23,7 +23,7 @@ Luego, configuramos las zonas del DNS, en el documento que se ubica en "/var/lib
 
 ![ Configuración de las zonas ](./imagenes/1.png)
 
-Una vez configurado el resto de archivos podemos comprobar que funciona mediante el uso del comando "dig"
+Una vez configurado el resto de archivos podemos comprobar que funciona mediante el uso del comando "dig" en el mismo servidor
 
 ![ Comprobación del funcionamiento ](./imagenes/2.png)
 
